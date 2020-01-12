@@ -5,6 +5,7 @@
 
 void kernel_main()
 {
-    terminal_initialize();
-    terminal_writestring("Hello from kernel.\n");
+    terminal_initialize(VGA_COLOR_GREEN, VGA_COLOR_BLACK);
+
+    terminal_writestring("---- WELCOME TO THE SHIT KERNEL (C) 2019 github.com/kazoor ----!\n");
 }

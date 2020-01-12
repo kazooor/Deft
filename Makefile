@@ -1,11 +1,11 @@
 ARCH        	:= i386
-CC 				:= i686-linux-gnu-gcc-8
-AS 				:= i686-linux-gnu-as
-CCFLAGS 		:= -g -ffreestanding -Wall -Wextra -Werror -Isrc -Isrc/libc -lgcc -nostartfiles -fno-pie
-LDFLAGS 		:= -g -ffreestanding -nostdlib -nostartfiles
+CC 		:= i686-linux-gnu-gcc-8
+AS 		:= i686-linux-gnu-as
+CCFLAGS 	:= -g -ffreestanding -Wall -Wextra -Werror -Isrc -Isrc/libc -lgcc -nostartfiles -fno-pie
+LDFLAGS 	:= -g -ffreestanding -nostdlib -nostartfiles
 
-BUILD_DIR 		:= build
-SRC_DIR 		:= src
+BUILD_DIR 	:= build
+SRC_DIR 	:= src
 
 SOURCES     	:= $(shell find $(SRC_DIR) -type f -name "*.c")
 OS.BIN      	:= $(BUILD_DIR)/os.bin

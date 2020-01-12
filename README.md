@@ -1,5 +1,5 @@
 <div align="center">
-![Deft](https://i.imgur.com/mvl5LxO.png)
+	<img src="https://i.imgur.com/mvl5LxO.png">
 </div>
 
 # Kernel

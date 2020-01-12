@@ -1,10 +1,7 @@
 <div align="center">
 	<img src="https://i.imgur.com/3EIDn6n.png">
+	<h2> A fast & lightweight kernel written with the intention to learn about OS developement. </h2>
 </div>
-
-# Kernel
-
-A kernel written with the intention to learn about OS developement. 
 
 #### Feel free to make commits, though the commits should follow these guidlines
 - Follow code formats.

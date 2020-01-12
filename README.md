@@ -3,7 +3,7 @@
 # Kernel
 A kernel written with the intention to learn about OS developement. 
 
-Feel free to make commits, though the commits should follow these guidlines:
+#### Feel free to make commits, though the commits should follow these guidlines
 - Follow code formats.
 - Changes to existing code should have a good explanation to why it should be changed.
 

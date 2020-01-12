@@ -1,7 +1,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 # Kernel
-Simple x86 kernel.
+A kernel written with the intention to learn about OS developement.
 
 ## Dependencies
 - i686 gcc8

@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://i.imgur.com/mvl5LxO.png" /></div>
+![Deft](https://i.imgur.com/mvl5LxO.png)
 # Kernel
 
 A kernel written with the intention to learn about OS developement. 

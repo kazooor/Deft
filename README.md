@@ -15,7 +15,7 @@ Building + running the kernel.
 ```sh
 make
 ```
-
+s
 Cleaning (build dir.)
 ```sh 
 make clean

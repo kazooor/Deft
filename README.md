@@ -4,7 +4,7 @@
 A kernel written with the intention to learn about OS developement.
 
 ## Dependencies
-- i686 gcc8
+- i686-gcc8
 - Make
 - WSL (if you are on windows)
 - Xming server (if you are on windows)

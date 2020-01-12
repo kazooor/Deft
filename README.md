@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://i.imgur.com/mvl5LxO.png">
+	<img src="https://i.imgur.com/3EIDn6n.png">
 </div>
 
 # Kernel

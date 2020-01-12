@@ -1,3 +1,4 @@
+![Deft](https://i.imgur.com/OQ6TtTn.png)
 # Kernel
 
 A kernel written with the intention to learn about OS developement. 

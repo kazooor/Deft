@@ -1,6 +1,5 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
 # Kernel
+
 A kernel written with the intention to learn about OS developement. 
 
 #### Feel free to make commits, though the commits should follow these guidlines

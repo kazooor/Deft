@@ -1,6 +1,7 @@
 <div align="center">
 	<img src="https://i.imgur.com/3EIDn6n.png">
-	<h2> A fast & lightweight kernel written with the intention to learn about OS developement. </h2>
+	<h2> Deft </h2>
+	<p> A fast & lightweight kernel written with the intention to learn about OS developement. </p>
 </div>
 
 #### Feel free to make commits, though the commits should follow these guidlines

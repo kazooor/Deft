@@ -1,11 +1,8 @@
 <div align="center">
-	<p>
-    		<img src="https://i.imgur.com/3EIDn6n.png" width="150" alt="jam" />
-  	</p> </br>
-	
-	<h1 style="border-bottom: 0px;"> Deft </h1>
-	<img src="https://img.shields.io/github/issues/kazoor/Deft">
-	<img src="https://img.shields.io/github/issues-pr/kazoor/Deft">
+	<br />
+  		<p>
+   	 		<img src="https://i.imgur.com/3EIDn6n.png" width="150" alt="Deft" />
+  		</p>
 </div>
 
 

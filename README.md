@@ -3,6 +3,10 @@
   		<p>
    	 		<img src="https://i.imgur.com/3EIDn6n.png" width="150" alt="Deft" />
   		</p>
+	<br/>
+		<a href="https://github.com/kazoor/Deft/issues"><img src="https://img.shields.io/github/issues/kazoor/Deft"></a>
+		<a href="https://github.com/kazoor/Deft/pulls"><img src="https://img.shields.io/github/issues-pr/kazoor/Deft"></a>
+	<br/>
 </div>
 
 

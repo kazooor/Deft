@@ -1,15 +1,18 @@
 <div align="center">
-	<img src="https://i.imgur.com/3EIDn6n.png">
-	<h1> Deft </h1>
-	<a> A fast & lightweight kernel written with the intention to learn about OS developement. </a> </br>
+	<p>
+    		<img src="https://i.imgur.com/3EIDn6n.png" width="150" alt="jam" />
+  	</p> </br>
+	
+	<h1 style="border-bottom: 0px;"> Deft </h1>
 	<img src="https://img.shields.io/github/issues/kazoor/Deft">
 	<img src="https://img.shields.io/github/issues-pr/kazoor/Deft">
 </div>
 
+
 ## Feel free to make commits, though the commits should follow these guidlines
 - Follow code formats.
 - Changes to existing code should have a good explanation to why it should be changed.
-a
+
 ## Dependencies
 - i686-gcc8
 - Make

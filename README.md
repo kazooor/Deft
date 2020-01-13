@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="https://i.imgur.com/3EIDn6n.png">
 	<h1> Deft </h1>
-	<a> A fast & lightweight kernel written with the intention to learn about OS developement. </a>
+	<a> A fast & lightweight kernel written with the intention to learn about OS developement. </a> </br>
 	<img src="https://img.shields.io/github/issues/kazoor/Deft">
 	<img src="https://img.shields.io/github/issues-pr/kazoor/Deft">
 </div>
